@@ -8,7 +8,7 @@ Python version 3
 In this project, I will be analyzing starbucks offer and transcation data to see different types of offers, and see what a successful offer emans fore cah type, and what features in the dataset have most impact on predicting offer's success.
 
 # File Description
-There are three main files in this project:
+There are three json files in this project that contain the raw data:
 a) Portfolio - includes information on different starbucks offers
 b) Profile - Customer demographics- any population that received/viewed/completed the offer
 c) Transcript - Customer transaction data
