@@ -18,5 +18,5 @@ In this project, I will look at all the data Starbucks has provided, and clean a
 
 
 # Results
-Results of this analysis can be viewed on <a href="https://medium.com/@harrygky/who-might-respond-to-starbucks-offer-f275d939bf6f">Medium</a>.
+Results of this analysis can be viewed on <a href="https://medium.com/@joshsgm/an-analysis-on-starbucks-offer-data-694929def514">Medium</a>.
 
