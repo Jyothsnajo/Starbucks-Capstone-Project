@@ -14,7 +14,7 @@ b) Profile - Customer demographics- any population that received/viewed/complete
 c) Transcript - Customer transaction data
 
 # Project Description
-In this project, I will look at all the data Starbucks has provided, and clean and process the data as necessary for analysis. I will define what a successful offer is, and then do an exploratory analysis. I will then use machine learning algorithms to come up with a best model to predict an offer's succes.
+In this project, I will look at all the data Starbucks has provided, and clean and process the data as necessary for analysis. I will define what a successful offer is, and then do an exploratory analysis. I will then use machine learning algorithms to come up with a best model to predict an offer's success.
 
 
 # Results
