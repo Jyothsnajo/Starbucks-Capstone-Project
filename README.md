@@ -26,12 +26,12 @@ My main focus in this project was defining a successful offer, and what features
 ## Results
 
 Overall my observations in this project were as follows:
-  1. Among the people who received an offer, there was larger percentage of male population (58%) compared to females (42%).
-  2. Offer’s success percent was slightly higher among females (20%) compared to males(18%), although for informational offers male       population responded slightly better than females.
-  3. Most of the offers were either BOGO or discount, and few informational
-  4. Success percent was slightly higher for BOGO and discount offers (20%) compared to informational (15%) which might be attributable to reward associated with bogo/discount offers
-  5. Accuracy score with GradientBoosting classifier on combined dataset (includes all offer types) was 0.8738, and fscore was 0.7021 and scores were way better than naive predictor performance. This shows higher efficiency in using GradientBoosting model
-  6. Features that had most impact on offer’s success were — transaction (customer makes a transaction), customer’s membership tenure, age, income, and reward received on completing the offer.
+  - Among the people who received an offer, there was larger percentage of male population (58%) compared to females (42%).
+  - Offer’s success percent was slightly higher among females (20%) compared to males(18%), although for informational offers male       population responded slightly better than females.
+  - Most of the offers were either BOGO or discount, and few informational
+  - Success percent was slightly higher for BOGO and discount offers (20%) compared to informational (15%) which might be attributable to reward associated with bogo/discount offers
+  - Accuracy score with GradientBoosting classifier on combined dataset (includes all offer types) was 0.8738, and fscore was 0.7021 and scores were way better than naive predictor performance. This shows higher efficiency in using GradientBoosting model
+  - Features that had most impact on offer’s success were — transaction (customer makes a transaction), customer’s membership tenure, age, income, and reward received on completing the offer.
 
 Detailed results of this analysis can be viewed on <a href="https://medium.com/@joshsgm/an-analysis-on-starbucks-offer-data-694929def514">Medium</a>.
 
