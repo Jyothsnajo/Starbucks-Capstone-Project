@@ -10,7 +10,7 @@ In this project, I will be analyzing starbucks offer and customer transcation da
   b) Profile - Customer demographics- any population that received/viewed/completed the offer
   c) Transcript - Customer transaction data
 - Starbucks_Capstone_notebook - this is a jupyter notebook, and contains all the analysis regarding the project including data clean up, exploratory analysis, machine learning model implementation, evaluation and results, and overall observations from the analysis.
-- Visuals.py - A python support file to run certain codes in the jupyter notebook
+- Visuals.py - A python support file required to run certain codes in the jupyter notebook
 
 ## Installation and libraries
 This code is in Python and requiures python 3 to run the files. Libraries that were used
