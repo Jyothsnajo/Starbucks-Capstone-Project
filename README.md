@@ -25,7 +25,7 @@ My main focus in this project was defining a successful offer, and what features
 
 ## Results
 
-- Overall my observations in this project were as follows:
+Overall my observations in this project were as follows:
   1. Among the people who received an offer, there was larger percentage of male population (58%) compared to females (42%).
   2. Offer’s success percent was slightly higher among females (20%) compared to males(18%), although for informational offers male       population responded slightly better than females.
   3. Most of the offers were either BOGO or discount, and few informational
